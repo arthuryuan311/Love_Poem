@@ -409,6 +409,24 @@
             </objects>
             <point key="canvasLocation" x="3598" y="-1491"/>
         </scene>
+        <!--View Controller-->
+        <scene sceneID="WfN-TF-G40">
+            <objects>
+                <viewController id="pFV-Gh-yCX" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="fOq-op-rq9"/>
+                        <viewControllerLayoutGuide type="bottom" id="vM3-tH-IJu"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kmL-Wa-H26">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="O5q-k3-Cd0" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1634" y="-666"/>
+        </scene>
         <!--詩人-->
         <scene sceneID="SdB-XO-dRG">
             <objects>
